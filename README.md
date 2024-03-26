@@ -8,8 +8,6 @@ StableKE incorporates Semantic Paraphrase Enhancement and Contextual Description
 
 We introduce KEBench, a novel benchmark specifically designed for assessing knowledge editing methods. This benchmark rigorously evaluates the stability of edited knowledge, its ripple effects across multi-hop knowledge integration, the preservation of unrelated knowledge.
 
-Please see [our paper](https://arxiv.org/pdf/2402.13048.pdf) for more details.
-
 <img src="./figs/four_aspect_stability.png" width="600">
 
 ## Datasets
